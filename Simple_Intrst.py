@@ -1,4 +1,5 @@
 #Program to calculate Simple Interest
+
 print("Enter the principal amount, rate and time period: ")
 princ=int(input())
 rate=float(input())
